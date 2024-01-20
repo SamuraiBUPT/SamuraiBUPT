@@ -13,18 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! I'm bindale324
-Welcome to my GitHub profile! 
-
-I'm a passionate game mod developer with a love for bringing new dimensions to gaming experiences. 
-
-### 💻 About Me
-- 🎮 Research & Develop in mod developing.
-- 🌟 Engaged in community discussion.
-- 📚 I love opne source.
-
-
-### 🛠️ Toolkit
+## Profile
+### Toolkit
 - Languages: C++, Lua, Python
 - Tools: Normally VSCode...
 
@@ -35,10 +25,10 @@ I'm a passionate game mod developer with a love for bringing new dimensions to g
 More to explore in my repositories! 
 -->
 
-### 🤝 Contributing
-I'm always open to contributions and collaboration. If you're interested in contributing to my mods or have an idea for a project, feel free to reach out or submit a pull request.
+### Contribute
+I'm always open to contributions and collaboration. If you're interested in contributing to projects, feel free to reach out or submit a pull request.
 
-### 📫 How to Reach Me
+### Contact
 Email: d31409163@163.com
 
 Thank you for stopping by, and wish you a good day!
