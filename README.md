@@ -25,8 +25,8 @@ I'm a passionate game mod developer with a love for bringing new dimensions to g
 
 
 ### 🛠️ Toolkit
-Languages: C++, Lua, Python
-Tools: Normally VSCode...
+- Languages: C++, Lua, Python
+- Tools: Normally VSCode...
 
 <!-- 
 🚀 My Projects
