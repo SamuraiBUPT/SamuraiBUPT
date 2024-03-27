@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 
 ## Profile
 ### Toolkit
-- Languages: C++, Lua, Python
+- Languages: Rust, Lua, GLSL
 - Tools: Normally VSCode...
-
-<!-- 
-🚀 My Projects
-[Project Name] - [Brief description of the project]
-[Another Project] - [Brief description of another project]
-More to explore in my repositories! 
--->
 
 ### Contribute
 I'm always open to contributions and collaboration. If you're interested in contributing to projects, feel free to reach out or submit a pull request.
