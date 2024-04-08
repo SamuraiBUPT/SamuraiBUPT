@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Profile
 ### Toolkit
-- Languages: Rust, Lua, GLSL
+- Languages: Golang, Lua, Python
 - Tools: Normally VSCode...
 
 ### Contribute
