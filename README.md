@@ -8,4 +8,4 @@ Using CUDA/C++/Python for:
 + LLM inference system (acceleration)
 + CUDA low-level operators dev (general cuda kernel, cuBLAS, wmma, PTX)
 
-Currently intern at PaddlePaddle in Baidu Inc.
+Currently High Performance Computing intern at PaddlePaddle in Baidu Inc.
